@@ -1,0 +1,42 @@
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.exe
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.pdb
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.dll
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.dll
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.pdb
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.xml
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.pdb
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.xml
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Form1.resources
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Properties.Resources.resources
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.exe
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.pdb
+C:\Sorgenti\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.exe
+C:\Sorgenti\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.pdb
+C:\Sorgenti\WinQrCode\WinQrCodeCS\bin\Debug\zxing.pdb
+C:\Sorgenti\WinQrCode\WinQrCodeCS\bin\Debug\zxing.xml
+C:\Sorgenti\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.pdb
+C:\Sorgenti\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.xml
+C:\Sorgenti\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.csprojResolveAssemblyReference.cache
+C:\Sorgenti\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Form1.resources
+C:\Sorgenti\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Properties.Resources.resources
+C:\Sorgenti\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.csproj.GenerateResource.Cache
+C:\Sorgenti\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.csproj.CoreCompileInputs.cache
+C:\Sorgenti\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.exe
+C:\Sorgenti\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.pdb
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.exe
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.pdb
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.exe
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.pdb
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\bin\Debug\zxing.pdb
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\bin\Debug\zxing.xml
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.pdb
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.xml
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.csprojResolveAssemblyReference.cache
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Form1.resources
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Properties.Resources.resources
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.csproj.GenerateResource.Cache
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\QrCodeGenerator\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.exe
+C:\PROGETTI\SIA\QRCODE Esempi\Esempi codice\QrCodeGenerator\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.pdb
